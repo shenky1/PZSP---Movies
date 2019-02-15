@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="enter_query">Enter query</string>
+    <string name="there_are_no_movies">There are no movies in database.\n Please search for another query.</string>
+    <string name="no_movies">No movies</string>
+    <string name="number_of_votes_bold"><b>Number of votes</b></string>
+    <string name="user_rating_bold"><b>User rating</b></string>
+    <string name="release_date_bold"><b>Release date</b></string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="hollywood_logo">Hollywood logo</string>
+    <string name="get_top_rated_movies">Get top rated movies</string>
+    <string name="get_now_playing">Get now playing</string>
+</resources>
